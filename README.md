@@ -25,7 +25,6 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-
 https://github.com/microverseinc/readme-template
 
 ### Setup
@@ -34,20 +33,15 @@ Setup Visual Studio Code
 
 ### Install
 
-node_modules
-package.json
+npm init -y
 
-### Usage
-
-### Run tests
-
-### Deployment
+npm install --save-dev hint@7.x
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Harshita Jain**
 
 - GitHub: https://github.com/harshitajain06
 - Twitter: https://twitter.com/harshitajain06
