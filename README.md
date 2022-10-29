@@ -22,13 +22,13 @@ https://github.com/microverseinc/readme-template
 
 ### Install
 
-package.json
+package.json :
 npm init -y
 
-node_modules
+node_modules :
 npm install --save-dev hint@7.x
 
-.stylelintrc.json
+.stylelintrc.json :
 npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
 
 
