@@ -1,27 +1,15 @@
+@@ -1,19 +1,16 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Hello Microverse
-
 > It is a simple Html and Css file following the Git flows and appling linters.
-
-
 ## Built With
-
 - Html and Css
 - Javascript
 - Visual Studios Code
 
 
-
 ## Getting Started
-
-
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+@@ -26,10 +23,15 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
@@ -29,30 +17,42 @@ https://github.com/microverseinc/readme-template
 
 ### Setup
 
-Setup Visual Studio Code
+Visual Studios Code setup
+
+https://github.com/microverseinc/readme-template
 
 ### Install
 
+package.json
 npm init -y
 
+node_modules
 npm install --save-dev hint@7.x
 
+.stylelintrc.json
+npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
 
+
+### Run tests
+
+npx stylelint "**/*.{css,scss}"
 
 ## Authors
 
-👤 **Harshita Jain**
+👤 Harshita Jain
+
 
 - GitHub: https://github.com/harshitajain06
 - Twitter: https://twitter.com/harshitajain06
-- LinkedIn: https://www.linkedin.com/in/harshita-jain-64518377
+- LinkedIn: https://www.linkedin.com/in/harshita-jain-64518377/
+
 
 
 ## 🤝 Contributing
 
+Contributions, issues, and feature requests are welcome!
 https://github.com/microverseinc/readme-template/commits?author=nidalaa
 
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -60,8 +60,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Used the help from Utsargo Roy
-- Got the inspiration from my coding partner
+- Used the code of Utsargo Roy
+- Got the inspiration from my coding partners
+
 
 ## 📝 License
 
