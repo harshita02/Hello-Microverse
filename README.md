@@ -10,7 +10,7 @@
 
 
 ## Getting Started
-@@ -26,10 +23,15 @@ To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
