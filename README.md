@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-@@ -1,19 +1,16 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 # Hello Microverse
 > It is a simple Html and Css file following the Git flows and appling linters.
