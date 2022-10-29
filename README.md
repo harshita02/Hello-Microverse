@@ -66,7 +66,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-=======
-# Hello-Microverse
->>>>>>> b77068b787e1f384e8ccd63df3e51e0bbaf87758
